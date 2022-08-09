@@ -1,4 +1,4 @@
-- Hi, I’m @2ndkite
+- Hi, I’m HoYeon Lee
 - I’m interested in python and c
 - I’m currently learning c++
 - I’m working on RL application in mobile edge caching
